@@ -1,0 +1,3 @@
+C:/Users/l-primoo/Desktop/Dev/MacOS-flasher/cmake-build-debug/CMakeFiles/MacOS_flasher.dir
+C:/Users/l-primoo/Desktop/Dev/MacOS-flasher/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/l-primoo/Desktop/Dev/MacOS-flasher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
