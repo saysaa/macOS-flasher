@@ -1,11 +1,14 @@
-macOS-flasher
+**macOS-flasher**
+
 Easily create a bootable macOS storage device (USB, SSD, HDD).
 
-📌 About
+📌 **About**
+
 macOS-flasher is a C utility that quickly flashes a macOS image onto any compatible storage device (USB drive, SSD, HDD).
 It’s designed to be lightweight, fast, and reliable across different environments.
 
-✨ Features
+✨ **Features**
+
 📀 Flash a macOS image (.dmg, .iso, etc.) to a storage device
 
 ⚡ Fast and optimized writing process
@@ -14,17 +17,20 @@ It’s designed to be lightweight, fast, and reliable across different environme
 
 🛠️ Uses system APIs to prevent data corruption
 
-📜 License
+📜 **License**
+
 This project is licensed under the MIT License.
 You are free to use, modify, and redistribute it under the terms specified in the LICENSE file.
 
-🤝 Contributions
+🤝 **Contributions**
+
 Contributions are welcome!
 
 Report a bug or suggest an idea via issues
 
 Submit a pull request with your improvements
 
-👤 Author
+👤 **Author**
+
 saysaa — Project creator
 📬 Contact via GitHub
